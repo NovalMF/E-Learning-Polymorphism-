@@ -1,0 +1,14 @@
+*Polymorphism dari sisi pengertian adalah , sesuatu aksi yang memungkinkan pemrograman menyampaikan beberapa pesan tertentu 
+ yang keluar dari hirarki objeknya , artinya bisa di katakan polymorphism mempunyai objek yang berbeda kemudian 
+ objek tersebut memberi tanggapan/respon terhadap pesan yang sama sesuai dengan sifatnya objek tersebut.
+
+*Atau bisa dikatakan polymorphism itu hampir sama dengan overriding , mengapa demikian ?, karena menurut saya 
+ Polymorphism dapat berarti banyak bentuk, yaitu menimpa suatu method, yang berasal dari super class kemudian
+ objek tersebut diturunkan , kemudian kan dalam sebuah kelas induk(super class) pasti mempunyai sebuah method 
+ disini saya ambil contoh method bernama suara() yang saya isi dengan data String, kemudian
+ pada saat melakukan polymorphism nanti di panggil atau di timpa si methodnya dan nanti akan muncul kelakuan dari si method
+ itu sendiri. 
+
+Mungkin seperti itu penjelasan saya , sekian dan terimakasih.
+
+ 
